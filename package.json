@@ -1,0 +1,23 @@
+{
+  "name": "mindmapify",
+  "version": "0.0.0",
+  "description": "Transform structured JSON data into a graphical mind map",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo 'no test suites found'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gsteja2307/mindmapify.git"
+  },
+  "keywords": [
+    "mind",
+    "map"
+  ],
+  "author": "https://github.com/gsteja2307",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gsteja2307/mindmapify/issues"
+  },
+  "homepage": "https://github.com/gsteja2307/mindmapify#readme"
+}
